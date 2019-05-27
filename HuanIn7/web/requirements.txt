@@ -1,7 +1,0 @@
-Flask
-flask_restful
-pymongo
-bcrypt
-numpy
-scipy
-scikit-learn
